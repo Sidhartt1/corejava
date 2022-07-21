@@ -1,5 +1,4 @@
 package constructors;
-
 public class defaultcons 
 {
 	int a;
@@ -17,7 +16,5 @@ public class defaultcons
 	{
 		defaultcons d1 = new defaultcons(1,2);
 		d1.print();
-		
 	}
-
 }
